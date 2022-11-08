@@ -4,5 +4,5 @@
 
 - 📍 &nbsp; Current location: Uzbekistan, Tashkent
 
-![profile 3d contrib](profile-3d-contrib/profile-night-rainbow.svg)
+[![user:16517581's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16517581?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 

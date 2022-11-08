@@ -9,3 +9,5 @@
  📍 &nbsp; Current location: Uzbekistan, Tashkent
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+[![GitHub Follow Badge](https://img.shields.io/github/followers/UserNameAllambalo?label=follow&style=social)](https://github.com/UserNameAllambalo)

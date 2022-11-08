@@ -4,5 +4,5 @@
 
 - 📍 &nbsp; Current location: Uzbekistan, Tashkent
 
-[![user:16517581's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16517581?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 

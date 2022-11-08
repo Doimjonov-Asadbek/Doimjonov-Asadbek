@@ -1,2 +1,2 @@
 Hi, I'm Doimjonov Asadbek
-<img src="https://media4.giphy.com/media/JUq9ohFN2eSLJllrkd/giphy.gif?cid=ecf05e47dszkvjg7spwrdjcuoafsyumo1gjf7htblsxcpqbp&rid=giphy.gif&ct=s" width="40px">
+<img src="https://media2.giphy.com/media/jofglpQGdIT4OfgKfC/giphy.gif?cid=ecf05e47ep48ymkf8vwfb6jh2vedueqs6ia2o5snyw5mrrmk&rid=giphy.gif&ct=s" width="40px">

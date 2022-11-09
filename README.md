@@ -15,6 +15,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=UserNameAllambalo&show_icons=true&count_private=true&theme=github_dark" height="150"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserNameAllambalo&layout=compact&theme=github_dark" height="150"/></a>
 </p>
+
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+</p>
  
  
 

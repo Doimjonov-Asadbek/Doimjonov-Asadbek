@@ -1,6 +1,6 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.mds.yandex.net/i?id=934d75a1eeb6ce238f79abf0a49ca8150badd126-4012020-images-thumbs&n=13" />
-</p>
+//<p align="center" width="300">
+  // <img align="center" width="200" src="https://avatars.mds.yandex.net/i?id=934d75a1eeb6ce238f79abf0a49ca8150badd126-4012020-images-thumbs&n=13" />
+//</p>
 
 
 

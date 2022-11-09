@@ -1,6 +1,6 @@
 
 
-## `Welcome to my README!`
+## <h1 align="center">`Welcome to my README!`</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UserNameAllambalo&label=Profile%20views&color=0e75b6&style=flat" alt="UserNameAllambalo" />  </p>
 

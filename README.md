@@ -1,9 +1,3 @@
-//<p align="center" width="300">
-  // <img align="center" width="200" src="https://avatars.mds.yandex.net/i?id=934d75a1eeb6ce238f79abf0a49ca8150badd126-4012020-images-thumbs&n=13" />
-//</p>
-
-
-
 ## <h1 align="center">`Welcome to my README!`</h1>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> , I'm Doimjonov Asadbek</h1>

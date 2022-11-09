@@ -7,6 +7,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> , I'm Doimjonov Asadbek</h1>
  
  [![GitHub Follow Badge](https://img.shields.io/github/followers/UserNameAllambalo?label=follow&style=social)](https://github.com/UserNameAllambalo)
+  <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
  📍 &nbsp; Current location: Uzbekistan, Tashkent
 

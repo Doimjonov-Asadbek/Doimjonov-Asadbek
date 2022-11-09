@@ -1,3 +1,7 @@
+<p align="center" width="300">
+   <img align="center" width="200" src="https://miro.medium.com/max/1200/1*DoRiMdg1PE4hlgQfvtqHBw.jpeg" />
+</p>
+
 
 
 ## <h1 align="center">`Welcome to my README!`</h1>

@@ -4,7 +4,6 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=UserNameAllambalo&label=Profile%20views&color=0e75b6&style=flat" alt="UserNameAllambalo" />
- <a href="https://github.com/UserNameAllambalo"><img src="imgs/github.svg" alt="GitHub"></a>
 </p>
 
  <p align = "center"> 📍 &nbsp; Current location: Uzbekistan, Tashkent </p>

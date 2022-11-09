@@ -8,6 +8,12 @@
  
  [![GitHub Follow Badge](https://img.shields.io/github/followers/UserNameAllambalo?label=follow&style=social)](https://github.com/UserNameAllambalo)
 
+ 📍 &nbsp; Current location: Uzbekistan, Tashkent
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=UserNameAllambalo&show_icons=true&count_private=true&theme=github_dark" height="150"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserNameAllambalo&layout=compact&theme=github_dark" height="150"/></a>
+</p>
+ 
  
 

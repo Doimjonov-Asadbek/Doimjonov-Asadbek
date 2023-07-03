@@ -17,7 +17,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Doimjonov-Asadbek&theme=dark&hide_border=true" width = 400>
 </p>
  
-[![Github Badge](https://img.shields.io/badge/Yorvoration-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Yorvoration)](https://github.com/Yorvoration)  [![Github Badge](https://img.shields.io/badge/devDoubleH-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/devDoubleH)](https://github.com/devDoubleH)
+[![Github Badge](https://img.shields.io/badge/To-rex-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/To-rex)](https://github.com/To-rex)  [![Github Badge](https://img.shields.io/badge/devDoubleH-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/devDoubleH)](https://github.com/devDoubleH)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Nice+to+meet+you...)](https://git.io/typing-svg)
 <div align='center'>
